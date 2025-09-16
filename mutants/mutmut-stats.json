@@ -1,0 +1,51 @@
+{
+    "tests_by_mangled_function_name": {
+        "add_values.x_add_values": [
+            "tests/test_add_values.py::test_add_values[originalInput2]",
+            "tests/test_add_values.py::test_add_values[originalInput8]",
+            "tests/test_add_values.py::test_add_values[originalInput3]",
+            "tests/test_add_values.py::test_add_values[originalInput0]",
+            "tests/test_add_values.py::test_add_values[originalInput5]",
+            "tests/test_add_values.py::test_add_values[originalInput1]",
+            "tests/test_add_values.py::test_add_values[originalInput7]",
+            "tests/test_add_values.py::test_add_values[originalInput6]",
+            "tests/test_add_values.py::test_add_values[originalInput4]",
+            "tests/test_add_values.py::test_add_values[originalInput9]"
+        ],
+        "bi_SearchFromTo.x_bi_SearchFromTo": [
+            "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput3-1-0-5]",
+            "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput0-3-0-4]",
+            "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput2-6-0-4]",
+            "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput1-4-0-4]",
+            "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput4--3-0-4]",
+            "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput9-4-0-4]",
+            "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput6--5-0-5]",
+            "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput8-2-0-5]",
+            "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput7-7-0-5]",
+            "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput5-6-0-5]"
+        ]
+    },
+    "duration_by_test": {
+        "tests/test_add_values.py::test_add_values[originalInput0]": 0.00010511500295251608,
+        "tests/test_add_values.py::test_add_values[originalInput1]": 7.606501458212733e-05,
+        "tests/test_add_values.py::test_add_values[originalInput2]": 7.348496001213789e-05,
+        "tests/test_add_values.py::test_add_values[originalInput3]": 7.40779796615243e-05,
+        "tests/test_add_values.py::test_add_values[originalInput4]": 7.83720170147717e-05,
+        "tests/test_add_values.py::test_add_values[originalInput5]": 8.038402302190661e-05,
+        "tests/test_add_values.py::test_add_values[originalInput6]": 7.768598152324557e-05,
+        "tests/test_add_values.py::test_add_values[originalInput7]": 7.390300743281841e-05,
+        "tests/test_add_values.py::test_add_values[originalInput8]": 7.580401143059134e-05,
+        "tests/test_add_values.py::test_add_values[originalInput9]": 7.650104817003012e-05,
+        "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput0-3-0-4]": 9.241298539564013e-05,
+        "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput1-4-0-4]": 8.516397792845964e-05,
+        "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput2-6-0-4]": 8.478702511638403e-05,
+        "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput3-1-0-5]": 8.477299707010388e-05,
+        "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput4--3-0-4]": 8.33519734442234e-05,
+        "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput5-6-0-5]": 8.905300637707114e-05,
+        "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput6--5-0-5]": 8.388800779357553e-05,
+        "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput7-7-0-5]": 8.327496470883489e-05,
+        "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput8-2-0-5]": 8.556002285331488e-05,
+        "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput9-4-0-4]": 8.571497164666653e-05
+    },
+    "stats_time": 0.14311124400000003
+}

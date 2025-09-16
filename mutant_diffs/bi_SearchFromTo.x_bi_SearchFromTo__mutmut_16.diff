@@ -1,0 +1,12 @@
+# bi_SearchFromTo.x_bi_SearchFromTo__mutmut_16: survived
+--- src/bi_SearchFromTo.py
++++ src/bi_SearchFromTo.py
+@@ -12,7 +12,7 @@
+ 
+         else:
+             if midVal > key:
+-                high = mid - 1
++                high = mid - 2
+             else:
+                 return mid
+     return -(low + 1)

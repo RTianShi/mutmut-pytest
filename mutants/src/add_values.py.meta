@@ -1,0 +1,9 @@
+{
+    "exit_code_by_key": {
+        "add_values.x_add_values__mutmut_1": 1,
+        "add_values.x_add_values__mutmut_2": 1,
+        "add_values.x_add_values__mutmut_3": 1,
+        "add_values.x_add_values__mutmut_4": 1
+    },
+    "hash_by_function_name": {}
+}

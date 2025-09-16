@@ -1,0 +1,12 @@
+# bi_SearchFromTo.x_bi_SearchFromTo__mutmut_3: survived
+--- src/bi_SearchFromTo.py
++++ src/bi_SearchFromTo.py
+@@ -3,7 +3,7 @@
+     low = froom
+     high = to
+ 
+-    while low <= high:
++    while low < high:
+         mid = (low + high)//2
+         midVal = elements[mid]
+ 

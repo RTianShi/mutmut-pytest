@@ -1,0 +1,8 @@
+{
+  "mutant_id": "unknown",
+  "nodeid": "tests/test_add_values.py::test_add_values[originalInput3]",
+  "file": null,
+  "line": null,
+  "assert_expr": null,
+  "longrepr": "FAILURE: check 18 == 0: MR2 failed\\ntest_add_values.py:115 in test_add_values() -> applyMR_Assert(originalInput, originalResult)\\ntest_add_values.py:84 in applyMR_Assert() -> check.equal(originalResult + len(originalInput) * 3, transformResult2, \"MR2 failed\")\\n\\nFAILURE: check 1 == 0: MR3_2 failed\\n------------------------------------------------------------\\nFailed Checks: 2"
+}

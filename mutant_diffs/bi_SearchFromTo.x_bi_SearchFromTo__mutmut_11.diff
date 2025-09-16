@@ -1,0 +1,12 @@
+# bi_SearchFromTo.x_bi_SearchFromTo__mutmut_11: timeout
+--- src/bi_SearchFromTo.py
++++ src/bi_SearchFromTo.py
+@@ -8,7 +8,7 @@
+         midVal = elements[mid]
+ 
+         if midVal < key:
+-            low = mid + 1
++            low = mid - 1
+ 
+         else:
+             if midVal > key:

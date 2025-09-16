@@ -1,0 +1,351 @@
+{
+  "created": 1758025171.5427017,
+  "duration": 0.015278339385986328,
+  "exitcode": 0,
+  "root": "/home/rts/\u4e0b\u8f7d/Python_src/mutants",
+  "environment": {},
+  "summary": {
+    "passed": 10,
+    "total": 10,
+    "collected": 10
+  },
+  "collectors": [
+    {
+      "nodeid": "",
+      "outcome": "passed",
+      "result": [
+        {
+          "nodeid": "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput7-7-0-5]",
+          "type": "Function",
+          "lineno": 116
+        },
+        {
+          "nodeid": "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput4--3-0-4]",
+          "type": "Function",
+          "lineno": 116
+        },
+        {
+          "nodeid": "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput6--5-0-5]",
+          "type": "Function",
+          "lineno": 116
+        },
+        {
+          "nodeid": "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput3-1-0-5]",
+          "type": "Function",
+          "lineno": 116
+        },
+        {
+          "nodeid": "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput2-6-0-4]",
+          "type": "Function",
+          "lineno": 116
+        },
+        {
+          "nodeid": "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput1-4-0-4]",
+          "type": "Function",
+          "lineno": 116
+        },
+        {
+          "nodeid": "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput8-2-0-5]",
+          "type": "Function",
+          "lineno": 116
+        },
+        {
+          "nodeid": "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput9-4-0-4]",
+          "type": "Function",
+          "lineno": 116
+        },
+        {
+          "nodeid": "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput5-6-0-5]",
+          "type": "Function",
+          "lineno": 116
+        },
+        {
+          "nodeid": "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput0-3-0-4]",
+          "type": "Function",
+          "lineno": 116
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "nodeid": "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput7-7-0-5]",
+      "lineno": 116,
+      "outcome": "passed",
+      "keywords": [
+        "test_bi_SearchFromTo[originalInput7-7-0-5]",
+        "parametrize",
+        "pytestmark",
+        "originalInput7-7-0-5",
+        "test_bi_SearchFromTo.py",
+        "tests",
+        "mutants",
+        ""
+      ],
+      "setup": {
+        "duration": 0.0003029020153917372,
+        "outcome": "passed"
+      },
+      "call": {
+        "duration": 0.00018680503126233816,
+        "outcome": "passed"
+      },
+      "teardown": {
+        "duration": 0.0001308710197918117,
+        "outcome": "passed"
+      }
+    },
+    {
+      "nodeid": "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput4--3-0-4]",
+      "lineno": 116,
+      "outcome": "passed",
+      "keywords": [
+        "test_bi_SearchFromTo[originalInput4--3-0-4]",
+        "parametrize",
+        "pytestmark",
+        "originalInput4--3-0-4",
+        "test_bi_SearchFromTo.py",
+        "tests",
+        "mutants",
+        ""
+      ],
+      "setup": {
+        "duration": 0.0002049749600701034,
+        "outcome": "passed"
+      },
+      "call": {
+        "duration": 0.00013707403559237719,
+        "outcome": "passed"
+      },
+      "teardown": {
+        "duration": 0.00012107496149837971,
+        "outcome": "passed"
+      }
+    },
+    {
+      "nodeid": "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput6--5-0-5]",
+      "lineno": 116,
+      "outcome": "passed",
+      "keywords": [
+        "test_bi_SearchFromTo[originalInput6--5-0-5]",
+        "parametrize",
+        "pytestmark",
+        "originalInput6--5-0-5",
+        "test_bi_SearchFromTo.py",
+        "tests",
+        "mutants",
+        ""
+      ],
+      "setup": {
+        "duration": 0.0002042159903794527,
+        "outcome": "passed"
+      },
+      "call": {
+        "duration": 0.00013493001461029053,
+        "outcome": "passed"
+      },
+      "teardown": {
+        "duration": 0.00011520099360495806,
+        "outcome": "passed"
+      }
+    },
+    {
+      "nodeid": "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput3-1-0-5]",
+      "lineno": 116,
+      "outcome": "passed",
+      "keywords": [
+        "test_bi_SearchFromTo[originalInput3-1-0-5]",
+        "parametrize",
+        "pytestmark",
+        "originalInput3-1-0-5",
+        "test_bi_SearchFromTo.py",
+        "tests",
+        "mutants",
+        ""
+      ],
+      "setup": {
+        "duration": 0.00019169901497662067,
+        "outcome": "passed"
+      },
+      "call": {
+        "duration": 0.00012774899369105697,
+        "outcome": "passed"
+      },
+      "teardown": {
+        "duration": 0.00010968599235638976,
+        "outcome": "passed"
+      }
+    },
+    {
+      "nodeid": "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput2-6-0-4]",
+      "lineno": 116,
+      "outcome": "passed",
+      "keywords": [
+        "test_bi_SearchFromTo[originalInput2-6-0-4]",
+        "parametrize",
+        "pytestmark",
+        "originalInput2-6-0-4",
+        "test_bi_SearchFromTo.py",
+        "tests",
+        "mutants",
+        ""
+      ],
+      "setup": {
+        "duration": 0.00019484199583530426,
+        "outcome": "passed"
+      },
+      "call": {
+        "duration": 0.00012876599794253707,
+        "outcome": "passed"
+      },
+      "teardown": {
+        "duration": 0.00011186301708221436,
+        "outcome": "passed"
+      }
+    },
+    {
+      "nodeid": "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput1-4-0-4]",
+      "lineno": 116,
+      "outcome": "passed",
+      "keywords": [
+        "test_bi_SearchFromTo[originalInput1-4-0-4]",
+        "parametrize",
+        "pytestmark",
+        "originalInput1-4-0-4",
+        "test_bi_SearchFromTo.py",
+        "tests",
+        "mutants",
+        ""
+      ],
+      "setup": {
+        "duration": 0.00019100296776741743,
+        "outcome": "passed"
+      },
+      "call": {
+        "duration": 0.0001278900308534503,
+        "outcome": "passed"
+      },
+      "teardown": {
+        "duration": 0.00010863301577046514,
+        "outcome": "passed"
+      }
+    },
+    {
+      "nodeid": "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput8-2-0-5]",
+      "lineno": 116,
+      "outcome": "passed",
+      "keywords": [
+        "test_bi_SearchFromTo[originalInput8-2-0-5]",
+        "parametrize",
+        "pytestmark",
+        "originalInput8-2-0-5",
+        "test_bi_SearchFromTo.py",
+        "tests",
+        "mutants",
+        ""
+      ],
+      "setup": {
+        "duration": 0.0001870269770734012,
+        "outcome": "passed"
+      },
+      "call": {
+        "duration": 0.00012347695883363485,
+        "outcome": "passed"
+      },
+      "teardown": {
+        "duration": 0.00011069601168856025,
+        "outcome": "passed"
+      }
+    },
+    {
+      "nodeid": "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput9-4-0-4]",
+      "lineno": 116,
+      "outcome": "passed",
+      "keywords": [
+        "test_bi_SearchFromTo[originalInput9-4-0-4]",
+        "parametrize",
+        "pytestmark",
+        "originalInput9-4-0-4",
+        "test_bi_SearchFromTo.py",
+        "tests",
+        "mutants",
+        ""
+      ],
+      "setup": {
+        "duration": 0.00018909701611846685,
+        "outcome": "passed"
+      },
+      "call": {
+        "duration": 0.00012924900511279702,
+        "outcome": "passed"
+      },
+      "teardown": {
+        "duration": 0.00010914704762399197,
+        "outcome": "passed"
+      }
+    },
+    {
+      "nodeid": "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput5-6-0-5]",
+      "lineno": 116,
+      "outcome": "passed",
+      "keywords": [
+        "test_bi_SearchFromTo[originalInput5-6-0-5]",
+        "parametrize",
+        "pytestmark",
+        "originalInput5-6-0-5",
+        "test_bi_SearchFromTo.py",
+        "tests",
+        "mutants",
+        ""
+      ],
+      "setup": {
+        "duration": 0.0001886620302684605,
+        "outcome": "passed"
+      },
+      "call": {
+        "duration": 0.00012842001160606742,
+        "outcome": "passed"
+      },
+      "teardown": {
+        "duration": 0.00011307199019938707,
+        "outcome": "passed"
+      }
+    },
+    {
+      "nodeid": "tests/test_bi_SearchFromTo.py::test_bi_SearchFromTo[originalInput0-3-0-4]",
+      "lineno": 116,
+      "outcome": "passed",
+      "keywords": [
+        "test_bi_SearchFromTo[originalInput0-3-0-4]",
+        "parametrize",
+        "pytestmark",
+        "originalInput0-3-0-4",
+        "test_bi_SearchFromTo.py",
+        "tests",
+        "mutants",
+        ""
+      ],
+      "setup": {
+        "duration": 0.00019290897762402892,
+        "outcome": "passed"
+      },
+      "call": {
+        "duration": 0.00012359197717159986,
+        "outcome": "passed"
+      },
+      "teardown": {
+        "duration": 0.00011201400775462389,
+        "outcome": "passed"
+      }
+    }
+  ],
+  "warnings": [
+    {
+      "message": "Unknown config option: pytest -vv --tb\n",
+      "category": "PytestConfigWarning",
+      "when": "config",
+      "filename": "/home/rts/anaconda3/envs/mutmut39/lib/python3.9/site-packages/_pytest/config/__init__.py",
+      "lineno": 1474
+    }
+  ]
+}

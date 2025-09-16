@@ -1,0 +1,9 @@
+# bi_SearchFromTo.x_bi_SearchFromTo__mutmut_19: survived
+--- src/bi_SearchFromTo.py
++++ src/bi_SearchFromTo.py
+@@ -15,4 +15,4 @@
+                 high = mid - 1
+             else:
+                 return mid
+-    return -(low + 1)
++    return -(low + 2)
